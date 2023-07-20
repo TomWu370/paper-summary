@@ -3,6 +3,8 @@ checkpoints/
 *.jsonl
 *.json
 *.pth
+*.bin
+*.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

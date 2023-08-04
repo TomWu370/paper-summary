@@ -6,6 +6,8 @@ checkpoints/
 *.bin
 *.txt
 word2vec.model
+*.pki
+CNN130/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

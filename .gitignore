@@ -6,7 +6,7 @@ checkpoints/
 *.bin
 *.txt
 word2vec.model
-*.pki
+*.pk1
 CNN130/
 
 # Byte-compiled / optimized / DLL files

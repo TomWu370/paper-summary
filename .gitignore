@@ -4,13 +4,17 @@ checkpoints/
 *.json
 *.pth
 *.bin
-*.txt
 word2vec.model
 *.pkl
 CNN130/
 lightning_logs/
 model/
 outputs/
+text_cnn.txt
+text_full_cnn.txt
+old loss/
+old files/
+old vocab/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

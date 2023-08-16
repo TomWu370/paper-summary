@@ -1,0 +1,66 @@
+CNN transformer 256_Batch_32_17lr0.0001
+Epoch [1/20], Loss: 8.2173, Acc: 2.35
+Best eval loss updated!
+Valid Epoch [1/20], Loss: 7.7385, Acc: 4.24
+
+Epoch [2/20], Loss: 7.1774, Acc: 4.24
+Best eval loss updated!
+Valid Epoch [2/20], Loss: 6.7201, Acc: 4.37
+
+Epoch [3/20], Loss: 6.3916, Acc: 5.79
+Best eval loss updated!
+Valid Epoch [3/20], Loss: 6.2791, Acc: 7.20
+
+Epoch [4/20], Loss: 5.9098, Acc: 7.31
+Best eval loss updated!
+Valid Epoch [4/20], Loss: 5.9025, Acc: 7.15
+
+Epoch [5/20], Loss: 5.5794, Acc: 9.20
+Best eval loss updated!
+Valid Epoch [5/20], Loss: 5.6652, Acc: 9.94
+
+Epoch [6/20], Loss: 5.2774, Acc: 12.86
+Valid Epoch [6/20], Loss: 5.6844, Acc: 10.33
+
+Epoch [7/20], Loss: 5.0395, Acc: 15.73
+Valid Epoch [7/20], Loss: 5.7762, Acc: 12.52
+
+Epoch [8/20], Loss: 4.8468, Acc: 17.67
+Best eval loss updated!
+Valid Epoch [8/20], Loss: 5.6355, Acc: 14.02
+
+Epoch [9/20], Loss: 4.6794, Acc: 19.08
+Best eval loss updated!
+Valid Epoch [9/20], Loss: 5.6299, Acc: 13.45
+
+Epoch [10/20], Loss: 4.5372, Acc: 20.21
+Best eval loss updated!
+Valid Epoch [10/20], Loss: 5.5840, Acc: 14.83
+
+Epoch [11/20], Loss: 4.4085, Acc: 21.20
+Best eval loss updated!
+Valid Epoch [11/20], Loss: 5.5281, Acc: 16.10
+
+Epoch [12/20], Loss: 4.2885, Acc: 22.09
+Valid Epoch [12/20], Loss: 5.6309, Acc: 17.18
+
+Epoch [13/20], Loss: 4.1719, Acc: 23.03
+Valid Epoch [13/20], Loss: 5.6119, Acc: 17.19
+
+Epoch [14/20], Loss: 4.0585, Acc: 24.02
+Best eval loss updated!
+Valid Epoch [14/20], Loss: 5.4258, Acc: 17.82
+
+Epoch [15/20], Loss: 3.9377, Acc: 25.10
+Best eval loss updated!
+Valid Epoch [15/20], Loss: 5.3700, Acc: 18.80
+
+15-18 = extrapolate
+
+Epoch [19/10], Loss: 3.5279, Acc: 30.19
+Best eval loss updated!
+Valid Epoch [19/10], Loss: 4.5120, Acc: 25.63
+
+Epoch [20/10], Loss: 3.3575, Acc: 31.55
+Best eval loss updated!
+Valid Epoch [20/10], Loss: 4.1808, Acc: 27.16

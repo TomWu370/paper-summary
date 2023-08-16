@@ -1,1 +1,0 @@
-CNN transformer 256_Batch_32lr0.0001

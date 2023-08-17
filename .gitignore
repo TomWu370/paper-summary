@@ -9,7 +9,7 @@ word2vec.model
 CNN130/
 lightning_logs/
 model/
-
+Old models/
 text_cnn.txt
 text_full_cnn.txt
 old loss/

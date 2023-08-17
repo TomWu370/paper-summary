@@ -323,6 +323,7 @@ responses @ file:///tmp/build/80754af9/responses_1619800270522/work
 rfc3339-validator @ file:///C:/b/abs_ddfmseb_vm/croot/rfc3339-validator_1683077054906/work
 rfc3986-validator @ file:///C:/b/abs_6e9azihr8o/croot/rfc3986-validator_1683059049737/work
 rope @ file:///C:/b/abs_55g_tm_6ff/croot/rope_1676675029164/work
+rouge-score==0.1.2
 rsa @ file:///tmp/build/80754af9/rsa_1614366226499/work
 Rtree @ file:///C:/b/abs_e116ltblik/croot/rtree_1675157871717/work
 ruamel.yaml @ file:///C:/b/abs_30ee5qbthd/croot/ruamel.yaml_1666304562000/work
